@@ -1,8 +1,8 @@
 <h1 align="center">
-  <img src="https://i.imgur.com/COF5Bld.png" width="224px"/><br/>
+  <img src="https://i.imgur.com/MjoyiKL.jpg" width="224px"/><br/>
 </h1>
 
-<p align="center">Bem vindo ao Doctortive<br/> <b>Web</b> (React, StyledComponents, TypeScript)<br/><b>Back-End</b> (NodeJS, Express, PostgreSQL)
+<p align="center">Bem vindo ao Limeira Cards<br/> <b>Web</b> (React, StyledComponents, TypeScript)<br/><b>Back-End</b> (NodeJS, Express, PostgreSQL)
 
 <!-- - [About us](#about-us) -->
 
@@ -39,7 +39,7 @@ yarn run start
 - Mobile modelado com [React-Native](https://reactnative.dev/):
   - `React-Native` — gerenciador do aplicativo.
 - Frontend Web | Mobile estilizado com [Styled Components](https://styled-components.com/):
-  - `Styled Components` — responsável por todo o template da Doctortive.
+  - `Styled Components` — responsável por todo o template da Limeira Cards.
 
 > ☝️ O Front-End tem sua build e teste no [Netlify](https://www.netlify.com).<br/>
 > ☝️ O Back-End tem sua build e teste no [Em Breve](https://www.netlify.com).
